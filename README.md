@@ -10,9 +10,11 @@ Consolidating all essential features in one place, Emissary provides a convenien
 
 Our platform boasts extensive compatibility, currently supporting **70 networks** (Polkadot, Kusama, and various Substrate-based Parachains). Furthermore, we offer compatibility with **300+ token assets** within the ecosystem.
 
+👇 Here's a demo video to have a quick overview of Emissary 👇
+
 https://github.com/Zhixuan0318/Emissary/assets/69501009/120d0a13-4abd-4694-a247-d90f670daed4
 
-# Key Features Overview
+# Key Features
 
 ### 1️⃣ White-label Token Emissary Builder
 

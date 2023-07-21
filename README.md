@@ -32,6 +32,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ### 4️⃣ Multi-signature Emissary's Safe
 
+![screenshots2](https://github.com/Zhixuan0318/Emissary/assets/69501009/264f2e74-ae4d-4d7f-be6e-4f6b98b2e62c)
+
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 ### 5️⃣ Decentralized Transfer Record Memo

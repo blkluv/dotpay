@@ -2,7 +2,7 @@
 
 # Introducing Emissary
 
-<img src="https://github.com/Zhixuan0318/Emissary/assets/69501009/afade70f-e79c-4aa3-90ae-503cea1e6c17" width=80%>
+<img src="https://github.com/Zhixuan0318/Emissary/assets/69501009/afade70f-e79c-4aa3-90ae-503cea1e6c17" width=90%>
 
 Emissary is a comprehensive payout solution designed for Polkadot and Substrate-based Parachains. This platform is specifically tailored for DAO organizations, Web 3.0 companies, and individual projects, offering seamless payout management 🪙 With Emissary, you can easily create your own white-label token emissary, simplifying the onboarding process for your community members and users.
 

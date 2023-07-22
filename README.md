@@ -10,9 +10,27 @@ Consolidating all essential features in one place, Emissary provides a convenien
 
 Our platform boasts extensive compatibility, currently supporting **70 networks** (Polkadot, Kusama, and various Substrate-based Parachains). Furthermore, we offer compatibility with **300+ token assets** within the ecosystem.
 
-👇 Here's a demo video to have a quick overview of Emissary 👇
+### Use Cases (but not limited to)
+
+⭐ `Bounties payout in DAO organization` 
+
+DAO organizations involved in events, research, and projects with crypto payouts can streamline the process using Emissary's token emissary. It offers an automated and efficient solution, replacing traditional manual methods (manual bookkeeping and tedious transfer process using a wallet).
+
+⭐ `Web 3.0 Hackathon Prizes Payout`
+
+Emissary simplifies the process for hackathon hosts, eliminating the need for manual emails to collect transfer info and tax documents from winners. With Emissary, hosts can send a single instruction along with a link to the token emissary. This allows winners to easily submit their transfer requests and track the status of their prize payouts at any time, eliminating the need for constant email exchanges.
+
+⭐ `Web 3.0 Business Salary Payout`
+
+Emissary provides an ideal solution for Web 3.0 businesses that need to pay their employees with cryptocurrencies. It facilitates the organization of all salary payments while ensuring complete transparency through trackable transfer records. The role management feature in Emissary is particularly valuable for large companies where treasury management is a collaborative effort among team members. 
+
+<hr>
+
+👇 **Here's a demo video to have a quick overview of Emissary** 👇
 
 https://github.com/Zhixuan0318/Emissary/assets/69501009/120d0a13-4abd-4694-a247-d90f670daed4
+
+This video is also available on Youtube: [Watch here](https://www.youtube.com/watch?v=4c5P_UlpXos&t=17s)
 
 # Key Features
 
@@ -83,5 +101,14 @@ Another valuable NFT-related feature is the specially designed NFT auto request 
 When it comes to treasury management, it typically requires a team, with each member having specific roles and varying levels of access to the treasury assets. Emissary revolutionizes and streamlines the entire process of setting up such a role management system for treasury management.
 
 The token emissary owner can effortlessly assign controllers in the token emissary settings and allocate them distinct roles. These roles include full access, admin, approvers, transfer request manager, and safe manager. With Emissary's built-in role management system, organizations can establish a standardized operating procedure (SOP) for their payout operations. This ensures smooth coordination among team members and enhances overall efficiency in managing the treasury.
+
+# The Main Future Plan (Post Hackathon Milestones)
+
+### Introducing the Emissary Plugin Marketplace
+A groundbreaking expansion that takes Emissary to new heights. Our vision is to amplify the potential of payout solutions, offering a wide array of enhanced features. With the plugin marketplace, we envision the integration of Oracle services, cross-chain transfers, dynamic NFTs, decentralized query chat, on-chain scheduled transactions, and a host of other cutting-edge functionalities.
+
+One of the most exciting aspects of this endeavor is our commitment to being open-source. We firmly believe in fostering collaboration and innovation within the community. To facilitate this, we will provide dedicated SDK and APIs, empowering developers to launch their custom emissary plugins, and further expanding the capabilities of our platform.
+
+By venturing into the plugin marketplace, Emissary is poised to unlock unprecedented opportunities for seamless and versatile payout solutions. This advancement marks a significant milestone in our mission to revolutionize treasury management and foster the growth of Web 3.0 businesses. Join us as we embark on this remarkable journey towards a more interconnected and dynamic future in the Polkadot and Substrate ecosystem.
 
 

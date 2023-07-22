@@ -36,7 +36,11 @@ Alternatively, the second option allows clients to access the login page by dire
 
 ![screenshots1](https://github.com/Zhixuan0318/Emissary/assets/69501009/7bd9fbc3-aa24-4c4b-ac42-800f38787c50)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+When a client needs to request a payout from an organization or project related to a specific program or event, the most efficient method is to submit a transfer request. Initiating a transfer request is a straightforward process: the client needs to provide some general information, select the relevant program, specify the desired payout amount, and upload any necessary tax documents. Once these steps are completed, the transfer request is ready for review.
+
+Controllers, who have access to their own controllers' account, will be responsible for reviewing all transfer requests. Once the payout request undergoes the review process and receives approval, the controllers can proceed with the payout. This involves transferring the token assets from the treasury to the applicant's wallet.
+
+To ensure transparency and accountability, both parties can track all transactions. This can be done through the Subscan chain explorer, which allows them to monitor the real-time progress of the transfer, or by referencing the transfer record memo to review the transaction history.
 
 ### 4️⃣ Multi-signature Emissary's Safe
 

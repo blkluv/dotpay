@@ -62,7 +62,11 @@ IPFS is a decentralized storage network powered by Filecoin, ensuring that the t
 
 ![screenshots7](https://github.com/Zhixuan0318/Emissary/assets/69501009/4d4d2e27-0442-4bd0-b513-77806b4827db)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+NFTs offer boundless possibilities for implementing various use cases, especially when it comes to payouts and setting up token-gated access. Emissary introduces multiple NFT use cases that can be integrated into your payout operations or utilized for managing your token emissary.
+
+One of these features is the token-gated emissary, which allows you to control access to your emissary and restrict who can log in. By default, anyone with a Polkadot or Substrate Wallet can access your token emissary. However, to prevent spam or unauthorized access, you have the option to limit login access to only your community members. This can be achieved by using your community's unique token as a pass to enter your token emissary.
+
+Additionally, Emissary supports token-gated programs, which involve restricting access to certain programs using event-related NFTs. In essence, clients will need to possess specific event NFTs in order to open a transfer request for the corresponding program. 
 
 ### 7️⃣ NFT-Derived Features
 

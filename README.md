@@ -46,7 +46,9 @@ To ensure transparency and accountability, both parties can track all transactio
 
 ![screenshots2](https://github.com/Zhixuan0318/Emissary/assets/69501009/264f2e74-ae4d-4d7f-be6e-4f6b98b2e62c)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Emissary's multi-signature safe serves as a secure solution tailored for milestone-based projects, separate payouts, or lump-sum payments. The key distinction between a transfer request and the multi-sig safe lies in the approval process. With the multi-signature safe, a designated group of controllers must collectively approve the transaction before the transfer can take place.
+
+To clarify, once the number of controllers approving the transaction surpasses a specified approval threshold, the token assets held within the multi-signature smart contract will be transferred to the intended recipient's wallet. The design of Emissary's multi-sig safe is built upon the architecture of the SAFE core protocol and incorporates advanced implementation techniques for multi-signature smart contracts, ensuring a robust and reliable mechanism for secure fund transfers.
 
 ### 5️⃣ Decentralized Transfer Record Memo
 

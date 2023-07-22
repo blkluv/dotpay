@@ -20,13 +20,17 @@ https://github.com/Zhixuan0318/Emissary/assets/69501009/120d0a13-4abd-4694-a247-
 
 ![screenshots4](https://github.com/Zhixuan0318/Emissary/assets/69501009/c1303ef2-c510-4c11-9e99-bbea0d2f93e5)
 
-Emissary offers support to numerous organizations and projects within 77 networks, including Polkadot, Kusama, and other substrate based parachains. Each of these entities possesses its own community and unique brand identity. Therefore, it is crucial to enable users to create and customize their token emissary. Emissary simplifies the entire token emissary creation process, providing features such as general information input, color theme selection, logo media integration, token assets setup, custom emissary subdomain, and more.
+Emissary offers support to numerous organizations and projects within 77 networks, including Polkadot, Kusama, and other Substrate-based Parachains. Each of these entities possesses its own community and unique brand identity. Therefore, it is crucial to enable users to create and customize their token emissary. Emissary simplifies the entire token emissary creation process, providing features such as general information input, color theme selection, logo media integration, token assets setup, custom emissary subdomain, and more.
 
 ### 2️⃣ User Onboarding Experience
 
 ![screenshots8](https://github.com/Zhixuan0318/Emissary/assets/69501009/f7cb2db0-4350-45f5-817a-3616bd627106)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Emissary is dedicated to ensuring a seamless and effortless onboarding experience for your clients. To achieve this, Emissary offers two convenient options for clients to access their own accounts and initiate payouts within your token emissary.
+
+The first option involves using a unique emissary code. Whenever a new token emissary is created in Emissary, it automatically generates a six-digit code specific to that emissary. Copy and share this code with your clients. They can then paste it into the designated field on the emissary login page, granting them immediate access.
+
+Alternatively, the second option allows clients to access the login page by directly browsing the custom domain of your token emissary. With these two choices available, your clients can select the method that best suits their preferences and get started with ease!
 
 ### 3️⃣ Transfer Request Management
 

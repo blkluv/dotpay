@@ -102,9 +102,9 @@ When it comes to treasury management, it typically requires a team, with each me
 
 The token emissary owner can effortlessly assign controllers in the token emissary settings and allocate them distinct roles. These roles include full access, admin, approvers, transfer request manager, and safe manager. With Emissary's built-in role management system, organizations can establish a standardized operating procedure (SOP) for their payout operations. This ensures smooth coordination among team members and enhances overall efficiency in managing the treasury.
 
-# The Main Future Plan (Post Hackathon Milestones)
+# Future Plan: A Post Hackathon Milestone
 
-### Introducing the Emissary Plugin Marketplace
+### Introducing the Emissary Plugin Marketplace 🎉
 A groundbreaking expansion that takes Emissary to new heights. Our vision is to amplify the potential of payout solutions, offering a wide array of enhanced features. With the plugin marketplace, we envision the integration of Oracle services, cross-chain transfers, dynamic NFTs, decentralized query chat, on-chain scheduled transactions, and a host of other cutting-edge functionalities.
 
 One of the most exciting aspects of this endeavor is our commitment to being open-source. We firmly believe in fostering collaboration and innovation within the community. To facilitate this, we will provide dedicated SDK and APIs, empowering developers to launch their custom emissary plugins, and further expanding the capabilities of our platform.

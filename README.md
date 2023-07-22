@@ -54,7 +54,9 @@ To clarify, once the number of controllers approving the transaction surpasses a
 
 ![screenshots3](https://github.com/Zhixuan0318/Emissary/assets/69501009/8d7cba1f-b127-4659-b565-323c1f1c4228)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+In token asset transfers and treasury management for DAO organizations and Web 3.0 companies, transparency and decentralization are crucial. Emissary addresses this need by generating a transfer record memo, which meticulously records the entire history and processes of token asset transfers. This comprehensive record encompasses recipient addresses, token transfer amounts, transfer request statuses, timestamps for each process, and more. The transfer record memo is formatted in JSON data and is deployed into the IPFS network.
+
+IPFS is a decentralized storage network powered by Filecoin, ensuring that the transfer record memos are stored in a distributed and tamper-resistant manner. Each token asset transfer record memo is assigned a unique CID (Content Identifier) that facilitates easy retrieval. Furthermore, these records can be readily utilized by third-party applications, fostering greater accessibility and utilization of the data. This approach strengthens transparency and enables seamless integration of Emissary's services with other blockchain-based platforms and applications.
 
 ### 6️⃣ Token-Gated Accesess Setup
 

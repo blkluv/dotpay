@@ -10,6 +10,8 @@ Consolidating all essential features in one place, Emissary provides a convenien
 
 Our platform boasts extensive compatibility, currently supporting **70 networks** (Polkadot, Kusama, and various Substrate-based Parachains). Furthermore, we offer compatibility with **300+ token assets** within the ecosystem.
 
+<hr>
+
 ### Use Cases (but not limited to)
 
 ⭐ `Bounties payout in DAO organization` 

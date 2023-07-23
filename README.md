@@ -113,4 +113,16 @@ One of the most exciting aspects of this endeavor is our commitment to being ope
 
 By venturing into the plugin marketplace, Emissary is poised to unlock unprecedented opportunities for seamless and versatile payout solutions. This advancement marks a significant milestone in our mission to revolutionize treasury management and foster the growth of Web 3.0 businesses. Join us as we embark on this remarkable journey towards a more interconnected and dynamic future in the Polkadot and Substrate ecosystem.
 
+# ❤️ How to Test? 
+
+To skip the part of creating a whole new token emissary for testing, I created a testing token emissary. It is an example token emissary for Polkadot community! Below are the two methods by which you can test Emissary:
+
+### Via unique code
+
+![test1](https://github.com/Zhixuan0318/Emissary/assets/69501009/f09b94e7-4172-44fb-a4c6-9c5965fa23b1)
+
+### Via custom URL
+
+![test2](https://github.com/Zhixuan0318/Emissary/assets/69501009/7706162f-382b-4507-b52b-c87b9d6c5c68)
+
 

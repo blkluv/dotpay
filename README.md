@@ -1,8 +1,8 @@
-<img src="https://github.com/Zhixuan0318/Emissary/assets/69501009/7e23934e-7378-483b-a03b-6dde82bdee29" width=80>
+<img src="https://github.com/Zhixuan0318/Emissary/assets/69501009/7019331f-a63d-4d5b-9345-39b8ee8c509a" width=80>
 
 # Introducing Emissary
 
-<img src="https://github.com/Zhixuan0318/Emissary/assets/69501009/afade70f-e79c-4aa3-90ae-503cea1e6c17" width=90%>
+<img src="https://github.com/Zhixuan0318/Emissary/assets/69501009/08287c14-4b0b-4c3e-84f9-a3f0a94d3211" width=90%>
 
 Emissary is a comprehensive payout solution designed for Polkadot and Substrate-based Parachains. This platform is specifically tailored for DAO organizations, Web 3.0 companies, and individual projects, offering seamless payout management 🪙 With Emissary, you can easily create your own white-label token emissary, simplifying the onboarding process for your community members and users.
 
@@ -30,7 +30,7 @@ Emissary provides an ideal solution for Web 3.0 businesses that need to pay thei
 
 👇 **Here's a demo video to have a quick overview of Emissary** 👇
 
-https://github.com/Zhixuan0318/Emissary/assets/69501009/120d0a13-4abd-4694-a247-d90f670daed4
+https://github.com/Zhixuan0318/Emissary/assets/69501009/af6e8df6-30f6-4e3b-b1e8-e8540a581f76
 
 This video is also available on Youtube: [Watch here](https://www.youtube.com/watch?v=4c5P_UlpXos&t=17s)
 
@@ -38,13 +38,13 @@ This video is also available on Youtube: [Watch here](https://www.youtube.com/wa
 
 ### 1️⃣ White-label Token Emissary Builder
 
-![screenshots4](https://github.com/Zhixuan0318/Emissary/assets/69501009/c1303ef2-c510-4c11-9e99-bbea0d2f93e5)
+![screenshots4](https://github.com/Zhixuan0318/Emissary/assets/69501009/4269d983-d24a-48be-b1d5-2840d6bcd87a)
 
 Emissary offers support to numerous organizations and projects within 77 networks, including Polkadot, Kusama, and other Substrate-based Parachains. Each of these entities possesses its own community and unique brand identity. Therefore, it is crucial to enable users to create and customize their token emissary. Emissary simplifies the entire token emissary creation process, providing features such as general information input, color theme selection, logo media integration, token assets setup, custom emissary subdomain, and more.
 
 ### 2️⃣ User Onboarding Experience
 
-![screenshots8](https://github.com/Zhixuan0318/Emissary/assets/69501009/f7cb2db0-4350-45f5-817a-3616bd627106)
+![screenshots8](https://github.com/Zhixuan0318/Emissary/assets/69501009/ac5f41eb-9282-4f72-b7d6-954b4287fae0)
 
 Emissary is dedicated to ensuring a seamless and effortless onboarding experience for your clients. To achieve this, Emissary offers two convenient options for clients to access their own accounts and initiate payouts within your token emissary.
 
@@ -54,17 +54,17 @@ Alternatively, the second option allows clients to access the login page by dire
 
 ### 3️⃣ Transfer Request Management
 
-![screenshots1](https://github.com/Zhixuan0318/Emissary/assets/69501009/7bd9fbc3-aa24-4c4b-ac42-800f38787c50)
+![screenshots1](https://github.com/Zhixuan0318/Emissary/assets/69501009/f3b7190e-08de-4ccd-b33e-a491a05a8257)
 
 When a client needs to request a payout from an organization or project related to a specific program or event, the most efficient method is to submit a transfer request. Initiating a transfer request is a straightforward process: the client needs to provide some general information, select the relevant program, specify the desired payout amount, and upload any necessary tax documents. Once these steps are completed, the transfer request is ready for review.
 
-Controllers, who have access to their own controllers' account, will be responsible for reviewing all transfer requests. Once the payout request undergoes the review process and receives approval, the controllers can proceed with the payout. This involves transferring the token assets from the treasury to the applicant's wallet.
+Controllers, who have access to their own controllers' accounts, will be responsible for reviewing all transfer requests. Once the payout request undergoes the review process and receives approval, the controllers can proceed with the payout. This involves transferring the token assets from the treasury to the applicant's wallet.
 
 To ensure transparency and accountability, both parties can track all transactions. This can be done through the Subscan chain explorer, which allows them to monitor the real-time progress of the transfer, or by referencing the transfer record memo to review the transaction history.
 
 ### 4️⃣ Multi-signature Emissary's Safe
 
-![screenshots2](https://github.com/Zhixuan0318/Emissary/assets/69501009/264f2e74-ae4d-4d7f-be6e-4f6b98b2e62c)
+![screenshots2](https://github.com/Zhixuan0318/Emissary/assets/69501009/c4e5a126-b736-41ec-a88e-d1c8e319bdb0)
 
 Emissary's multi-signature safe serves as a secure solution tailored for milestone-based projects, separate payouts, or lump-sum payments. The key distinction between a transfer request and the multi-sig safe lies in the approval process. With the multi-signature safe, a designated group of controllers must collectively approve the transaction before the transfer can take place.
 
@@ -72,7 +72,7 @@ To clarify, once the number of controllers approving the transaction surpasses a
 
 ### 5️⃣ Decentralized Transfer Record Memo
 
-![screenshots3](https://github.com/Zhixuan0318/Emissary/assets/69501009/8d7cba1f-b127-4659-b565-323c1f1c4228)
+![screenshots3](https://github.com/Zhixuan0318/Emissary/assets/69501009/6bf4cf56-d706-476b-b889-6f773a33955f)
 
 In token asset transfers and treasury management for DAO organizations and Web 3.0 companies, transparency and decentralization are crucial. Emissary addresses this need by generating a transfer record memo, which meticulously records the entire history and processes of token asset transfers. This comprehensive record encompasses recipient addresses, token transfer amounts, transfer request statuses, timestamps for each process, and more. The transfer record memo is formatted in JSON data and is deployed into the IPFS network.
 
@@ -80,7 +80,7 @@ IPFS is a decentralized storage network powered by Filecoin, ensuring that the t
 
 ### 6️⃣ Token-Gated Accesess Setup
 
-![screenshots7](https://github.com/Zhixuan0318/Emissary/assets/69501009/4d4d2e27-0442-4bd0-b513-77806b4827db)
+![screenshots7](https://github.com/Zhixuan0318/Emissary/assets/69501009/c295e8b7-c72f-406c-9deb-a26e2ce02911)
 
 NFTs offer boundless possibilities for implementing various use cases, especially when it comes to payouts and setting up token-gated access. Emissary introduces multiple NFT use cases that can be integrated into your payout operations or utilized for managing your token emissary.
 
@@ -90,7 +90,7 @@ Additionally, Emissary supports token-gated programs, which involve restricting 
 
 ### 7️⃣ NFT-Derived Features
 
-![screenshots5](https://github.com/Zhixuan0318/Emissary/assets/69501009/c4be2677-bccb-4479-ae4b-f8d7a42497f2)
+![screenshots5](https://github.com/Zhixuan0318/Emissary/assets/69501009/4d146814-8248-4821-98f6-eb6468855859)
 
 NFTs open up exciting possibilities for enhancing client experiences during payouts. With Emissary, payouts are no longer tedious tasks. One of Emissary's innovative features is NFT redemption, which empowers controllers to create an NFT collection simultaneously when setting up a program. This NFT collection is then linked to the program. When a client submits a transfer request for a program associated with an NFT collection, they have the opportunity to mint the NFT upon receiving their payout. This feature is perfect for events like hackathons, as winners can mint a special hackathon NFT as a memento after receiving their prize payout.
 
@@ -98,13 +98,13 @@ Another valuable NFT-related feature is the specially designed NFT auto request 
 
 ### 8️⃣ Treasury Management with Role Setup
 
-![screenshots5](https://github.com/Zhixuan0318/Emissary/assets/69501009/9d3881f5-e856-4f35-9ba3-5d574246c841)
+![rolemanagement](https://github.com/Zhixuan0318/Emissary/assets/69501009/4c32383b-7ed6-4da6-8daa-536e1aac4a48)
 
 When it comes to treasury management, it typically requires a team, with each member having specific roles and varying levels of access to the treasury assets. Emissary revolutionizes and streamlines the entire process of setting up such a role management system for treasury management.
 
 The token emissary owner can effortlessly assign controllers in the token emissary settings and allocate them distinct roles. These roles include full access, admin, approvers, transfer request manager, and safe manager. With Emissary's built-in role management system, organizations can establish a standardized operating procedure (SOP) for their payout operations. This ensures smooth coordination among team members and enhances overall efficiency in managing the treasury.
 
-# Future Plan: A Post Hackathon Milestone
+# Future Plan: A Post-Hackathon Milestone
 
 ### Introducing the Emissary Plugin Marketplace 🎉
 A groundbreaking expansion that takes Emissary to new heights. Our vision is to amplify the potential of payout solutions, offering a wide array of enhanced features. With the plugin marketplace, we envision the integration of Oracle services, cross-chain transfers, dynamic NFTs, decentralized query chat, on-chain scheduled transactions, and a host of other cutting-edge functionalities.
